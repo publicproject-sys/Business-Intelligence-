@@ -1,0 +1,13 @@
+name: bienv
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - pip
+  - ipykernel
+  - pip:
+      - geopy
